@@ -1,5 +1,5 @@
 # angle scripts  
-cvar script files for surfing / bhopping in angles on various valve games  
+cvar script files for surfing / bhopping in angle styles on various valve games while looking forwards   
  
 https://www.youtube.com/watch?v=RA1EtAZm8kc - video tutorial & demonstration   
  
