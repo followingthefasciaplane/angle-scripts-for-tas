@@ -16,8 +16,8 @@ F1 - bwhsw right
 F2 - bwhsw left  
 F3 - hsw right  
 F4 - hsw left  
-F5 - sideways right
-F6 - sideways left
+F5 - sideways right  
+F6 - sideways left  
 F7 - backwards  
 F8 - return to first person / disable scriptz  
 F9 - zooms in thirdperson camera to create a hack-fix firstperson recreation - tap F9 again to disable  
