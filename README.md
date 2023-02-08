@@ -1,11 +1,14 @@
 # angle scripts  
 https://www.youtube.com/watch?v=RA1EtAZm8kc - video tutorial & demonstration    
 cvar script files for surfing / bhopping in angle styles on various valve games while looking forwards   
+
 its impossible to receive any sort of ban on anything for using these scripts alone as they are only cfg files containing cvars  
-this wont work without sv_cheats set to 1 (but might work with client side cvar unlocker.. pls dont use online)  
+
+this wont work without sv_cheats set to 1 but might work with client side cvar unlocker..   
+pls dont use online. cvar unlockers CAN cause bans on many movement anticheats aswell as VAC.   
   
 navigate to the cfg folder in your game directory   
-drop all of the files in
+drop all of the files in  
 type exec angle.cfg in console  
 good 2 go  
   
