@@ -1,5 +1,6 @@
 # angle scripts  
 cvar script files for surfing / bhopping in angle styles on various valve games while looking forwards   
+its impossible to receive any sort of ban on anything for using these scripts alone as they are only cfg files containing cvars  
  
 https://www.youtube.com/watch?v=RA1EtAZm8kc - video tutorial & demonstration   
  
