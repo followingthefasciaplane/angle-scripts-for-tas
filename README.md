@@ -1,14 +1,13 @@
 # angle scripts  
+https://www.youtube.com/watch?v=RA1EtAZm8kc - video tutorial & demonstration    
 cvar script files for surfing / bhopping in angle styles on various valve games while looking forwards   
 its impossible to receive any sort of ban on anything for using these scripts alone as they are only cfg files containing cvars  
- 
-https://www.youtube.com/watch?v=RA1EtAZm8kc - video tutorial & demonstration   
- 
 this wont work without sv_cheats set to 1 (but might work with client side cvar unlocker.. pls dont use online)  
-so this is to make cool angle tas videos using cvars  
   
-simply navigate to the cfg folder in your game directory   
-drop all of the files in then type exec angle.cfg in your console  
+navigate to the cfg folder in your game directory   
+drop all of the files in
+type exec angle.cfg in console  
+good 2 go  
   
 these will simply change your view angles and movement keys using only in-game cvars  
 we can do this with only cvars by using the thirdperson cam, without modifying any game data at all.  
