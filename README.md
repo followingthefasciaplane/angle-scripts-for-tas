@@ -20,7 +20,7 @@ F4 - hsw left
 F5 - sideways right  
 F6 - sideways left  
 F7 - backwards  
-F8 - return to first person / disable scriptz  
+F8 - return to first person / disable all scriptz  
 F9 - zooms in thirdperson camera to create a hack-fix firstperson recreation - tap F9 again to disable  
 F10 - make character look at ground (looks better for backwards modes) - tap F10 again to disable  
   
