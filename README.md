@@ -20,9 +20,8 @@ F5 - sideways right
 F6 - sideways left
 F7 - backwards  
 F8 - return to first person / disable scriptz  
-F9 - zooms in thirdperson camera to create a hack-fix firstperson recreation  
-F10 - returns to default third person after pressing F9  
-F11 - make character look at ground (looks better for backwards modes) - tap F11 again to disable  
+F9 - zooms in thirdperson camera to create a hack-fix firstperson recreation - tap F9 again to disable
+F10 - make character look at ground (looks better for backwards modes) - tap F10 again to disable  
   
 one thing to note about the hsw angles is that you should try to avoid overlapping keypresses  
 since each key is giving the game two inputs and it will fuck out until you let go of all the keys again  
